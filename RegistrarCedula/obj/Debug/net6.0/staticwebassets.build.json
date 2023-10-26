@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SRtph9lrsoRd98WITtoKs4cltomfgNR+NhMee4KxutA=",
+  "Source": "RegistrarCedula",
+  "BasePath": "_content/RegistrarCedula",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

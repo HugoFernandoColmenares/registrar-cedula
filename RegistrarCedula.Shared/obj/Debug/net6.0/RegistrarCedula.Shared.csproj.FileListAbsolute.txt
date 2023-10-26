@@ -1,0 +1,12 @@
+C:\Users\Admin1\Documents\Recursos\NetCore\RegistrarCedulaAPI\RegistrarCedula.Shared\bin\Debug\net6.0\RegistrarCedula.Shared.deps.json
+C:\Users\Admin1\Documents\Recursos\NetCore\RegistrarCedulaAPI\RegistrarCedula.Shared\bin\Debug\net6.0\RegistrarCedula.Shared.dll
+C:\Users\Admin1\Documents\Recursos\NetCore\RegistrarCedulaAPI\RegistrarCedula.Shared\bin\Debug\net6.0\RegistrarCedula.Shared.pdb
+C:\Users\Admin1\Documents\Recursos\NetCore\RegistrarCedulaAPI\RegistrarCedula.Shared\obj\Debug\net6.0\RegistrarCedula.Shared.csproj.AssemblyReference.cache
+C:\Users\Admin1\Documents\Recursos\NetCore\RegistrarCedulaAPI\RegistrarCedula.Shared\obj\Debug\net6.0\RegistrarCedula.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin1\Documents\Recursos\NetCore\RegistrarCedulaAPI\RegistrarCedula.Shared\obj\Debug\net6.0\RegistrarCedula.Shared.AssemblyInfoInputs.cache
+C:\Users\Admin1\Documents\Recursos\NetCore\RegistrarCedulaAPI\RegistrarCedula.Shared\obj\Debug\net6.0\RegistrarCedula.Shared.AssemblyInfo.cs
+C:\Users\Admin1\Documents\Recursos\NetCore\RegistrarCedulaAPI\RegistrarCedula.Shared\obj\Debug\net6.0\RegistrarCedula.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Admin1\Documents\Recursos\NetCore\RegistrarCedulaAPI\RegistrarCedula.Shared\obj\Debug\net6.0\RegistrarCedula.Shared.dll
+C:\Users\Admin1\Documents\Recursos\NetCore\RegistrarCedulaAPI\RegistrarCedula.Shared\obj\Debug\net6.0\refint\RegistrarCedula.Shared.dll
+C:\Users\Admin1\Documents\Recursos\NetCore\RegistrarCedulaAPI\RegistrarCedula.Shared\obj\Debug\net6.0\RegistrarCedula.Shared.pdb
+C:\Users\Admin1\Documents\Recursos\NetCore\RegistrarCedulaAPI\RegistrarCedula.Shared\obj\Debug\net6.0\ref\RegistrarCedula.Shared.dll

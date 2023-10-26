@@ -1,0 +1,17 @@
+C:\Users\Admin1\Documents\Recursos\NetCore\RegistrarCedulaAPI\RegistrarCedula.Data\bin\Debug\net6.0\RegistrarCedula.Data.deps.json
+C:\Users\Admin1\Documents\Recursos\NetCore\RegistrarCedulaAPI\RegistrarCedula.Data\bin\Debug\net6.0\RegistrarCedula.Data.runtimeconfig.json
+C:\Users\Admin1\Documents\Recursos\NetCore\RegistrarCedulaAPI\RegistrarCedula.Data\bin\Debug\net6.0\RegistrarCedula.Data.dll
+C:\Users\Admin1\Documents\Recursos\NetCore\RegistrarCedulaAPI\RegistrarCedula.Data\bin\Debug\net6.0\RegistrarCedula.Data.pdb
+C:\Users\Admin1\Documents\Recursos\NetCore\RegistrarCedulaAPI\RegistrarCedula.Data\bin\Debug\net6.0\RegistrarCedula.Shared.dll
+C:\Users\Admin1\Documents\Recursos\NetCore\RegistrarCedulaAPI\RegistrarCedula.Data\bin\Debug\net6.0\RegistrarCedula.Shared.pdb
+C:\Users\Admin1\Documents\Recursos\NetCore\RegistrarCedulaAPI\RegistrarCedula.Data\obj\Debug\net6.0\RegistrarCedula.Data.csproj.AssemblyReference.cache
+C:\Users\Admin1\Documents\Recursos\NetCore\RegistrarCedulaAPI\RegistrarCedula.Data\obj\Debug\net6.0\RegistrarCedula.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin1\Documents\Recursos\NetCore\RegistrarCedulaAPI\RegistrarCedula.Data\obj\Debug\net6.0\RegistrarCedula.Data.AssemblyInfoInputs.cache
+C:\Users\Admin1\Documents\Recursos\NetCore\RegistrarCedulaAPI\RegistrarCedula.Data\obj\Debug\net6.0\RegistrarCedula.Data.AssemblyInfo.cs
+C:\Users\Admin1\Documents\Recursos\NetCore\RegistrarCedulaAPI\RegistrarCedula.Data\obj\Debug\net6.0\RegistrarCedula.Data.csproj.CoreCompileInputs.cache
+C:\Users\Admin1\Documents\Recursos\NetCore\RegistrarCedulaAPI\RegistrarCedula.Data\obj\Debug\net6.0\RegistrarCedula.Data.csproj.CopyComplete
+C:\Users\Admin1\Documents\Recursos\NetCore\RegistrarCedulaAPI\RegistrarCedula.Data\obj\Debug\net6.0\RegistrarCedula.Data.dll
+C:\Users\Admin1\Documents\Recursos\NetCore\RegistrarCedulaAPI\RegistrarCedula.Data\obj\Debug\net6.0\refint\RegistrarCedula.Data.dll
+C:\Users\Admin1\Documents\Recursos\NetCore\RegistrarCedulaAPI\RegistrarCedula.Data\obj\Debug\net6.0\RegistrarCedula.Data.pdb
+C:\Users\Admin1\Documents\Recursos\NetCore\RegistrarCedulaAPI\RegistrarCedula.Data\obj\Debug\net6.0\RegistrarCedula.Data.genruntimeconfig.cache
+C:\Users\Admin1\Documents\Recursos\NetCore\RegistrarCedulaAPI\RegistrarCedula.Data\obj\Debug\net6.0\ref\RegistrarCedula.Data.dll
